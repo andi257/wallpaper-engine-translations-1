@@ -18,7 +18,7 @@
 	"core_balloon_app_error" : "Încărcarea aplicației ca fundal eșuată.",
 	
 	"core_msgboxtitle_error" : "Eroare",
-	"core_msgboxtitle_app_conflict" : "Aplicașie conflictuală",
+	"core_msgboxtitle_app_conflict" : "Aplicație conflictuală",
 	"core_msgboxtitle_wpe" : "Wallpaper Engine",
 	
 	"core_msgbox_deskscapes" : "Se pare că DeskScapes este activ. Asta ar putea împiedica Wallpaper Engine de la a funcționa.",
